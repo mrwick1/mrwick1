@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mrwick1
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning bootstrap
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning react js
+
 
 <!---
 mrwick1/mrwick1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
