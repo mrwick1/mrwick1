@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mrwick1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
+- 👀 I’m a ReactJS Developer
 
 
 <!---
