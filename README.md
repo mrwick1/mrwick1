@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrwick1
+- 👋 Hi, I’m Arjun
 - 👀 I’m a MERN  Developer
 
 
