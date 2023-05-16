@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrwick1
-- 👀 I’m a ReactJS Developer
+- 👀 I’m a MERN  Developer
 
 
 <!---
