@@ -104,10 +104,10 @@
 
 ## What I'm Working On
 
+- Building **Librynt** — a multi-tenant library management SaaS for schools, powered by Go, React, and PostgreSQL
 - Crafting developer tools and UI component libraries at scale
 - Deep-diving into canvas rendering, WebGL, and real-time architectures
 - Contributing to the open-source React ecosystem
-- Exploring design system patterns and accessibility standards
 
 <br />
 
