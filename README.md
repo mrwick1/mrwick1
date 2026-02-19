@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
         <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
       </p>
-      <a href="https://librynt.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site" /></a>
+      <a href="https://librynt.com"><img src="https://img.shields.io/badge/Visit_Site-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site" /></a>
     </td>
   </tr>
   <tr>
