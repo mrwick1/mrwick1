@@ -27,8 +27,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,mui&theme=dark" alt="Frontend Core" /><br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,docker,git&theme=dark" alt="Backend & Tools" /><br /><br />
-  <img src="https://skillicons.dev/icons?i=jest,cypress,vite,webpack,storybook,figma&theme=dark" alt="Testing & Build" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,firebase,docker&theme=dark" alt="Backend & Tools" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=jest,cypress,vite,webpack,git,figma&theme=dark" alt="Testing & Build" />
 </p>
 
 <br />
@@ -37,53 +37,47 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h3>Astra UI</h3>
-      <p>A production-ready React component library built as a monorepo — 50+ accessible components with variant support via CVA.</p>
+    <td colspan="2" align="center">
+      <h3>Librynt</h3>
+      <p>A multi-tenant library management platform for schools, with book catalogs, circulation tracking, automated fines, and reports.</p>
       <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
-        <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
       </p>
-      <a href="https://github.com/mrwick1/astra-ui"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>HiveChat</h3>
-      <p>Real-time chat application with authentication, media sharing, online presence indicators, and responsive design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-      </p>
-      <a href="https://github.com/mrwick1/hive-chat"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <a href="https://librynt.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>SketchFlow</h3>
-      <p>A collaborative canvas drawing and whiteboard app with hand-drawn rendering powered by Rough.js and the Canvas API.</p>
+      <p>A canvas drawing and whiteboard app with hand-drawn rendering powered by Rough.js and pressure-sensitive freehand strokes.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas API" />
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
         <img src="https://img.shields.io/badge/Rough.js-333333?style=flat-square&logo=javascript&logoColor=white" alt="Rough.js" />
+        <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas API" />
+        <img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=cssmodules&logoColor=white" alt="CSS Modules" />
       </p>
-      <a href="https://github.com/mrwick1/sketchflow"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <a href="https://github.com/mrwick1/sketchflow"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://sketchflow.arjunp.pro/"><img src="https://img.shields.io/badge/Live_Demo-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
     </td>
     <td width="50%" align="center">
       <h3>Pulse Analytics</h3>
-      <p>A real-time analytics dashboard featuring 13+ interactive views with dynamic data visualization and filtering.</p>
+      <p>An analytics dashboard with 13+ interactive views, multiple layout variants, and real-time data visualization.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
         <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chart.js&logoColor=white" alt="Recharts" />
+        <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextAuth" />
       </p>
-      <a href="https://github.com/mrwick1/pulse-analytics"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <a href="https://github.com/mrwick1/pulse-analytics"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://pulse-analytics.arjunp.pro/"><img src="https://img.shields.io/badge/Live_Demo-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
     </td>
   </tr>
   <tr>
@@ -104,9 +98,9 @@
 
 ## What I'm Working On
 
-- Building **Librynt** — a multi-tenant library management SaaS for schools, powered by Go, React, and PostgreSQL
-- Crafting developer tools and UI component libraries at scale
-- Deep-diving into canvas rendering, WebGL, and real-time architectures
+- Shipping **Librynt** to early access, a library management SaaS built with Go and React
+- Exploring backend architecture with Go, PostgreSQL, and multi-tenant patterns
+- Deep-diving into canvas rendering and real-time architectures
 - Contributing to the open-source React ecosystem
 
 <br />
