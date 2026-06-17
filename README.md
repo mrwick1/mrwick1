@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arjunp.pro"><img src="https://img.shields.io/badge/arjunp.pro-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.arjunp.pro"><img src="https://img.shields.io/badge/arjunp.pro-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://linkedin.com/in/arjunp-software-engineer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://twitter.com/03arjunkr"><img src="https://img.shields.io/badge/@03arjunkr-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
   <a href="mailto:03arjunkr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -18,7 +18,7 @@
 <br />
 
 <p align="center">
-  <b>4+ years</b> specializing in <b>React</b> and <b>TypeScript</b> ecosystems — from component libraries and design systems to real-time apps and data-heavy dashboards. I care about performance, clean architecture, and pixel-perfect UI.
+  <b>5 years</b> building with <b>React</b> and <b>TypeScript</b>, from component libraries and design systems to data-heavy dashboards. Lately also shipping <b>Android</b> apps and <b>developer tools</b>. I care about performance, clean architecture, and UI that feels right.
 </p>
 
 <br />
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,mui&theme=dark" alt="Frontend Core" /><br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,firebase,docker&theme=dark" alt="Backend & Tools" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=kotlin,nodejs,express,go,postgres,docker&theme=dark" alt="Mobile, Backend & Tools" /><br /><br />
   <img src="https://skillicons.dev/icons?i=jest,cypress,vite,webpack,git,figma&theme=dark" alt="Testing & Build" />
 </p>
 
@@ -38,17 +38,44 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h3>Librynt</h3>
-      <p>A multi-tenant library management platform for schools, with book catalogs, circulation tracking, automated fines, and reports.</p>
+      <h3>Astra UI</h3>
+      <p>A published React component library on npm: type-safe CVA variants, polymorphic components, jest-axe accessibility tests, and automated semver + npm publish via GitHub Actions.</p>
       <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
+        <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" alt="Rollup" />
       </p>
-      <a href="https://librynt.com"><img src="https://img.shields.io/badge/Visit_Site-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site" /></a>
+      <a href="https://www.npmjs.com/package/@astra-ui-lib/core"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>&nbsp;
+      <a href="https://github.com/mrwick1/astra-ui"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/astra-ui.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>figma-connect</h3>
+      <p>A local Figma MCP server giving an AI agent full-fidelity design reads, plus verify_node: it renders generated code in headless Chromium and pixel-diffs it against the live Figma node.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <a href="https://github.com/mrwick1/figma-connect"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/figma-connect.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>REDLINE</h3>
+      <p>An Android app built from a reverse-engineered motorcycle Bluetooth protocol: Google Maps navigation pushed to the instrument cluster, with live telemetry and ride analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Room-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="Room" />
+      </p>
+      <a href="https://github.com/mrwick1/suzuki-connect-re"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/suzuki-connect-re.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
     </td>
   </tr>
   <tr>
@@ -60,8 +87,6 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
         <img src="https://img.shields.io/badge/Rough.js-333333?style=flat-square&logo=javascript&logoColor=white" alt="Rough.js" />
-        <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas API" />
-        <img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=cssmodules&logoColor=white" alt="CSS Modules" />
       </p>
       <a href="https://github.com/mrwick1/sketchflow"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
       <a href="https://sketchflow.arjunp.pro/"><img src="https://img.shields.io/badge/Live_Demo-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
@@ -74,22 +99,9 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
         <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chart.js&logoColor=white" alt="Recharts" />
-        <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextAuth" />
       </p>
       <a href="https://github.com/mrwick1/pulse-analytics"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
       <a href="https://pulse-analytics.arjunp.pro/"><img src="https://img.shields.io/badge/Live_Demo-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>React Error Sentinel</h3>
-      <p>A lightweight npm package for React error tracking — catch, log, and report runtime errors with zero configuration overhead.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
-      </p>
-      <a href="https://github.com/mrwick1/react-error-sentinel"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
     </td>
   </tr>
 </table>
@@ -98,10 +110,10 @@
 
 ## What I'm Working On
 
-- Shipping **Librynt** to early access, a library management SaaS built with Go and React
-- Exploring backend architecture with Go, PostgreSQL, and multi-tenant patterns
-- Deep-diving into canvas rendering and real-time architectures
-- Contributing to the open-source React ecosystem
+- Maintaining **@astra-ui-lib/core**, an open-source React component library on npm
+- Building developer tools, like a local Figma MCP server with a pixel-level verification oracle
+- Reverse-engineering hardware protocols for fun (a motorcycle's Bluetooth cluster, now driving an Android app)
+- Always sharpening frontend performance and design-system patterns
 
 <br />
 
