@@ -3,22 +3,28 @@
 <h1 align="center">Arjun P</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Senior+Frontend+Engineer+%40+Qilin+Labs;Building+fast%2C+polished+interfaces+for+the+web" alt="Typing SVG" />
+  <a href="https://www.arjunp.pro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=AI+Engineer+%C2%B7+Agents%2C+Dev+Tools+%26+AI+Products;Senior+Frontend+Engineer+%40+Qilin+Labs" alt="AI Engineer · Agents, Dev Tools & AI Products" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.arjunp.pro"><img src="https://img.shields.io/badge/arjunp.pro-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://mrwick.dev"><img src="https://img.shields.io/badge/mrwick.dev-0f3460?style=for-the-badge&logo=bookstack&logoColor=white" alt="Lab notebook" /></a>&nbsp;
+  <a href="https://www.arjunp.pro/assets/arjun-p-resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>&nbsp;
   <a href="https://linkedin.com/in/arjunp-software-engineer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://twitter.com/03arjunkr"><img src="https://img.shields.io/badge/@03arjunkr-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="https://twitter.com/03arjunkr"><img src="https://img.shields.io/badge/@03arjunkr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
   <a href="mailto:03arjunkr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <br />
 
 <p align="center">
-  <b>5 years</b> building with <b>React</b> and <b>TypeScript</b>, from component libraries and design systems to data-heavy dashboards. Lately also shipping <b>Android</b> apps and <b>developer tools</b>. I care about performance, clean architecture, and UI that feels right.
+  I build <b>AI agents</b> and the tools they run on: a <b>browser written from scratch in Rust</b>, a <b>virtual screen for agents</b>, an <b>open-source, self-hosted Grok Bot</b>, and a <b>code reviewer measured against CodeRabbit</b>. At work, I take AI products from the first conversation through delivery.
+</p>
+
+<p align="center">
+  <i>Open to AI engineering roles and selected client projects. <a href="https://www.arjunp.pro/hire.html">Hiring FAQ →</a></i>
 </p>
 
 <br />
@@ -26,9 +32,8 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,mui&theme=dark" alt="Frontend Core" /><br /><br />
-  <img src="https://skillicons.dev/icons?i=kotlin,nodejs,express,go,postgres,docker&theme=dark" alt="Mobile, Backend & Tools" /><br /><br />
-  <img src="https://skillicons.dev/icons?i=jest,cypress,vite,webpack,git,figma&theme=dark" alt="Testing & Build" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,rust,ts,react,nextjs&theme=dark" alt="AI, agents and web" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,kotlin,githubactions&theme=dark" alt="Backend, mobile and delivery" />
 </p>
 
 <br />
@@ -38,82 +43,79 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h3>Astra UI</h3>
-      <p>A published React component library on npm: type-safe CVA variants, polymorphic components, jest-axe accessibility tests, and automated semver + npm publish via GitHub Actions.</p>
+      <h3>bare</h3>
+      <p>A web browser written from scratch in Rust, with no crates: hand-written TLS, HTTP/2, HTML, CSS, layout and JavaScript, plus an MCP server that agents use to test sites. On one end-to-end test it used 5x less memory than Chrome.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
-        <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" alt="Rollup" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/MCP-1a1a2e?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
       </p>
-      <a href="https://www.npmjs.com/package/@astra-ui-lib/core"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>&nbsp;
-      <a href="https://github.com/mrwick1/astra-ui"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
-      <a href="https://www.arjunp.pro/projects/astra-ui.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
+      <a href="https://github.com/mrwick1/bare"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/bare.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/bare-baseline.html"><img src="https://img.shields.io/badge/vs_Chrome-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="bare vs Chrome baseline" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>deck</h3>
+      <p>An open-source, self-hosted Grok Bot. The owner chats with several AI bots, such as an email bot or a job-hunting bot, and each bot works in its own virtual computer.</p>
+      <a href="https://github.com/mrwick1/deck"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/deck.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>offstage</h3>
+      <p>A virtual screen for AI agents on Linux and Windows. Agents read the screen as text before they take a screenshot, and never touch the human's desktop.</p>
+      <a href="https://github.com/mrwick1/offstage"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/offstage.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>tinycode</h3>
+      <p>A small coding agent in Rust for small local models. It uses three tools and accepts a finished task only when the last test command passes.</p>
+      <a href="https://github.com/mrwick1/tinycode"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/tinycode.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>reviewer</h3>
+      <p>A local AI code reviewer in Rust, measured against CodeRabbit on 52 pull requests built from real bug fixes.</p>
+      <a href="https://github.com/mrwick1/reviewer-bench"><img src="https://img.shields.io/badge/Benchmark-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="Benchmark repo" /></a>&nbsp;
+      <a href="https://www.arjunp.pro/projects/reviewer.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>figma-connect</h3>
-      <p>A local Figma MCP server giving an AI agent full-fidelity design reads, plus verify_node: it renders generated code in headless Chromium and pixel-diffs it against the live Figma node.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      </p>
-      <a href="https://github.com/mrwick1/figma-connect"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
+      <p>A local Figma MCP server that renders generated code in a headless browser and compares it with the design.</p>
       <a href="https://www.arjunp.pro/projects/figma-connect.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
     </td>
     <td width="50%" align="center">
-      <h3>REDLINE</h3>
-      <p>An Android app built from a reverse-engineered motorcycle Bluetooth protocol: Google Maps navigation pushed to the instrument cluster, with live telemetry and ride analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-        <img src="https://img.shields.io/badge/Room-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="Room" />
-      </p>
+      <h3>Suzuki Connect RE</h3>
+      <p>Reverse engineering of a motorcycle Bluetooth protocol, and an Android app that pushes Google Maps navigation to the instrument cluster.</p>
       <a href="https://github.com/mrwick1/suzuki-connect-re"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
       <a href="https://www.arjunp.pro/projects/suzuki-connect-re.html"><img src="https://img.shields.io/badge/Case_Study-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study" /></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>SketchFlow</h3>
-      <p>A canvas drawing and whiteboard app with hand-drawn rendering powered by Rough.js and pressure-sensitive freehand strokes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
-        <img src="https://img.shields.io/badge/Rough.js-333333?style=flat-square&logo=javascript&logoColor=white" alt="Rough.js" />
-      </p>
-      <a href="https://github.com/mrwick1/sketchflow"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
-      <a href="https://sketchflow.arjunp.pro/"><img src="https://img.shields.io/badge/Live_Demo-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>Pulse Analytics</h3>
-      <p>An analytics dashboard with 13+ interactive views, multiple layout variants, and real-time data visualization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
-        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chart.js&logoColor=white" alt="Recharts" />
-      </p>
-      <a href="https://github.com/mrwick1/pulse-analytics"><img src="https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>&nbsp;
-      <a href="https://pulse-analytics.arjunp.pro/"><img src="https://img.shields.io/badge/Live_Demo-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-    </td>
-  </tr>
 </table>
+
+<p align="center"><a href="https://www.arjunp.pro/projects/">All projects →</a></p>
 
 <br />
 
-## What I'm Working On
+## Writing
 
-- Maintaining **@astra-ui-lib/core**, an open-source React component library on npm
-- Building developer tools, like a local Figma MCP server with a pixel-level verification oracle
-- Reverse-engineering hardware protocols for fun (a motorcycle's Bluetooth cluster, now driving an Android app)
-- Always sharpening frontend performance and design-system patterns
+- [Building a voice-AI product](https://www.arjunp.pro/writing/building-a-voice-ai-product.html)
+- [Giving coding agents their own screen](https://www.arjunp.pro/writing/giving-coding-agents-their-own-screen.html)
+- [How accurate is CodeRabbit? A test on 52 real bug fixes](https://www.arjunp.pro/writing/coderabbit-benchmark.html)
+- [Playwright MCP vs Chrome DevTools MCP vs bare](https://www.arjunp.pro/writing/browsers-for-ai-agents.html)
+- [All writing →](https://www.arjunp.pro/writing/)
+
+## Lab Notebook
+
+A self-hosted homelab and an Arch + Hyprland desktop, written down as they break, at **[mrwick.dev](https://mrwick.dev)**.
+
+- [The same test in two browsers](https://mrwick.dev/notes/the-same-test-in-two-browsers/)
+- [A local LLM lesson: GPU offload and MoE models](https://mrwick.dev/notes/gpu-offload-and-moe-models/)
+- [Two Claude accounts behind one proxy](https://mrwick.dev/notes/two-claude-accounts-one-proxy/)
 
 <br />
 
